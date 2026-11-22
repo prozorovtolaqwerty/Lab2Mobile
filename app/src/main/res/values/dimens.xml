@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_padding">20dp</dimen>
+    <dimen name="section_spacing">12dp</dimen>
+    <dimen name="text_spacing">4dp</dimen>
+    <dimen name="button_gap">8dp</dimen>
+    <dimen name="button_min_height">48dp</dimen>
+    <dimen name="card_corner">12dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="frame_padding">16dp</dimen>
+    <dimen name="frame_stroke">1dp</dimen>
+    <dimen name="title_size">26sp</dimen>
+    <dimen name="artist_size">18sp</dimen>
+    <dimen name="year_size">16sp</dimen>
+    <dimen name="artwork_min_height">160dp</dimen>
+</resources>

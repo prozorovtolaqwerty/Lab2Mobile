@@ -1,4 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ArtSpace</string>
+    <string name="app_name">Галерея</string>
+    <string name="previous">Назад</string>
+    <string name="next">Дальше</string>
+    <string name="previous_talkback">Показать предыдущее произведение</string>
+    <string name="next_talkback">Показать следующее произведение</string>
+    <string name="artwork_image">Произведение искусства</string>
+
+    <string name="art_creation_title">Сотворение Адама</string>
+    <string name="art_creation_artist">Микеланджело</string>
+    <string name="art_creation_year">1512</string>
+    <string name="art_creation_description">Фреска «Сотворение Адама», Микеланджело, 1512 год</string>
+
+    <string name="art_knight_title">Витязь на распутье</string>
+    <string name="art_knight_artist">Виктор Васнецов</string>
+    <string name="art_knight_year">1882</string>
+    <string name="art_knight_description">Картина «Витязь на распутье», Виктор Васнецов, 1882 год</string>
+
+    <string name="art_apotheosis_title">Апофеоз войны</string>
+    <string name="art_apotheosis_artist">Василий Верещагин</string>
+    <string name="art_apotheosis_year">1871</string>
+    <string name="art_apotheosis_description">Картина «Апофеоз войны», Василий Верещагин, 1871 год</string>
+
+    <string name="art_morning_forest_title">Утро в сосновом бору</string>
+    <string name="art_morning_forest_artist">Иван Шишкин</string>
+    <string name="art_morning_forest_year">1889</string>
+    <string name="art_morning_forest_description">Картина «Утро в сосновом бору», Иван Шишкин, 1889 год</string>
 </resources>

@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
+    <color name="background">#FFF6F3EE</color>
+    <color name="frame">#FFFFFFFF</color>
+    <color name="frame_stroke">#FFE4DDD2</color>
+    <color name="title_text">#FF1F1A17</color>
+    <color name="artist_text">#FF5C534C</color>
+    <color name="year_text">#FF7A6E64</color>
+    <color name="primary">#FF2F5D50</color>
+    <color name="on_primary">#FFFFFFFF</color>
 </resources>
