@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="previous_talkback">Show the previous artwork</string>
+    <string name="next_talkback">Show the next artwork</string>
+    <string name="artwork_image">Artwork</string>
+
+    <string name="art_creation_title">The Creation of Adam</string>
+    <string name="art_creation_artist">Michelangelo</string>
+    <string name="art_creation_year">1512</string>
+    <string name="art_creation_description">Fresco The Creation of Adam by Michelangelo, 1512</string>
+
+    <string name="art_knight_title">Knight at the Crossroads</string>
+    <string name="art_knight_artist">Viktor Vasnetsov</string>
+    <string name="art_knight_year">1882</string>
+    <string name="art_knight_description">Painting Knight at the Crossroads by Viktor Vasnetsov, 1882</string>
+
+    <string name="art_apotheosis_title">The Apotheosis of War</string>
+    <string name="art_apotheosis_artist">Vasily Vereshchagin</string>
+    <string name="art_apotheosis_year">1871</string>
+    <string name="art_apotheosis_description">Painting The Apotheosis of War by Vasily Vereshchagin, 1871</string>
+
+    <string name="art_morning_forest_title">Morning in a Pine Forest</string>
+    <string name="art_morning_forest_artist">Ivan Shishkin</string>
+    <string name="art_morning_forest_year">1889</string>
+    <string name="art_morning_forest_description">Painting Morning in a Pine Forest by Ivan Shishkin, 1889</string>
+</resources>
